@@ -221,7 +221,7 @@
 
   /* Category Card */
   .category-card {
-    @apply relative bg-card rounded-2xl overflow-hidden transition-all duration-300 cursor-pointer group;
+    @apply relative bg-card rounded-2xl overflow-hidden transition-all duration-300 cursor-pointer;
     box-shadow: var(--shadow-md);
   }
 
